@@ -1,0 +1,28 @@
+{
+  "name": "solguard-ai",
+  "version": "1.0.0",
+  "description": "Zero-Trust Financial Sentinel & Autonomous Spending Circuit-Breaker for Solana AI Agents",
+  "main": "src/sentinel_gateway.js",
+  "scripts": {
+    "test": "node test/solguard.test.js",
+    "mcp": "node src/mcp_server.js"
+  },
+  "keywords": [
+    "solana",
+    "ai-agents",
+    "zero-trust",
+    "circuit-breaker",
+    "agentic-payments",
+    "mcp",
+    "model-context-protocol",
+    "lamports",
+    "cybersecurity",
+    "sha-256",
+    "funaab"
+  ],
+  "author": "Usman Bamidele <usmanbamidele200@gmail.com> (Federal University of Agriculture, Abeokuta - FUNAAB)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
